@@ -1,1 +1,1 @@
-# attiny10-earing-in-C
+# attiny10-earing
